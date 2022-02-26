@@ -24,7 +24,7 @@ theme_set(theme_minimal())
 #nalezy ustawic wlasny folder z wgranymi plikami z danymi
 setwd("/")
 #########################################################################################
-
+###
 
 
 
