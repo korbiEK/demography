@@ -22,7 +22,7 @@ theme_set(theme_minimal())
 
 
 #nalezy ustawic wlasny folder z wgranymi plikami z danymi
-setwd("C:/Users/emilk/Documents/SGH/Prezentacja i wizualizacja danych/projekt")
+setwd("/")
 #########################################################################################
 
 
